@@ -1,4 +1,4 @@
-# SkinNet
+# SkinNet (VERY MUCH A DRAFT, TRYING, PLAYING AROUND)
 
 ## Personal skincare accountability coach in the form of an AI expert system tracks your daily habits, identifies beneficial patterns, and sets reminders to optimize your skincare routine. This system analyzes your behaviors to determine the most effective skincare practices for you.
 
