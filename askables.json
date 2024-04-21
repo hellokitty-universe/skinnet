@@ -1,0 +1,42 @@
+{
+    "date": {
+        "text": "Enter today's date for logging your skincare data:",
+        "options": [],
+        "default": "",
+        "type": "date"
+    },
+    "daily_water_intake": {
+        "text": "How many liters of water did you drink today?",
+        "options": [],
+        "default": "",
+        "type": "number"
+    },
+    "daily_sleep_hours": {
+        "text": "How many hours did you sleep last night?",
+        "options": [],
+        "default": "",
+        "type": "number"
+    },
+    "skin_condition": {
+        "text": "How would you describe your skin condition today?",
+        "options": [
+            {"id": "good", "text": "Good"},
+            {"id": "bad", "text": "Bad"},
+            {"id": "normal", "text": "Normal"},
+            {"id": "oily", "text": "Oily"},
+            {"id": "dry", "text": "Dry"}
+        ],
+        "default": "normal",
+        "type": "single_choice"
+    },
+    "period_status": {
+        "text": "What is your period status today?",
+        "options": [
+            {"id": "yes", "text": "Yes, I have my period today"},
+            {"id": "no", "text": "No, I do not have my period today"},
+            {"id": "not_applicable", "text": "Not applicable (I am a person who never has periods)"}
+        ],
+        "default": "no",
+        "type": "single_choice"
+    }
+}
